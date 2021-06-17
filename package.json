@@ -22,7 +22,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",    
-    "loizlint": "eslint . --ext .ts"    
+    "loizlint": "eslint . --ext .ts",
+    "lint-and-fix": "eslint . --ext .ts --fix"
   },
   "author": "",
   "license": "ISC"

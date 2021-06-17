@@ -1,6 +1,6 @@
-import {Observable} from 'rxjs';
+import {Observable} from 'rxjs'
 //import {fetch} from 'node-fetch' ;
-import fetch from 'node-fetch';
+import fetch from 'node-fetch'
 
 
 async function getPromiseFinalResult() : Promise<Response> { 
@@ -32,8 +32,8 @@ getTypeScriptObservable().subscribe(
     function(resultObservable) {
     console.log("getTypeScriptObservable - resultat : ", resultObservable) ;
     }
-);
+)
 
-const greet =  "Greetings"; 
-const geeks = "GeeksforGeeks"; 
+const greet =  "Greetings" 
+const geeks = "GeeksforGeeks" 
 console.log(greet + " from " + geeks)
