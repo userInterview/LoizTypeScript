@@ -1,6 +1,6 @@
-import {Observable} from 'rxjs'
+import {Observable} from 'rxjs';
 //import {fetch} from 'node-fetch' ;
-import fetch from 'node-fetch'
+import fetch from 'node-fetch';
 
 
 async function getPromiseFinalResult() : Promise<Response> { 
@@ -23,7 +23,7 @@ async function getPromiseFinalResult() : Promise<Response> {
 function getTypeScriptObservable () : Observable<Promise<Response>> {
 const objObserv :  Observable<Promise<Response>> =  new Observable(function(argobserver) {
 															const resultat = getPromiseFinalResult() ;
-															argobserver.next(resultat)
+															argobserver.next(resultat);
 														}) ; 
 	return objObserv ;
 }
@@ -32,8 +32,8 @@ getTypeScriptObservable().subscribe(
     function(resultObservable) {
     console.log("getTypeScriptObservable - resultat : ", resultObservable) ;
     }
-)
+);
 
-const greet =  "Greetings" 
-const geeks = "GeeksforGeeks" 
-console.log(greet + " from " + geeks)
+const greet =  "Greetings"; 
+const geeks = "GeeksforGeeks"; 
+console.log(greet + " from " + geeks);
