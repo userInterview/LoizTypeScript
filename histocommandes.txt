@@ -1,10 +1,3 @@
- 1003  gulp
- 1004  cd /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
- 1005  gulp
- 1006  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
- 1007  cd /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
- 1008  gulp
- 1009  .code
  1010  .cod
  1011  exit
  1012  node --version
@@ -998,3 +991,10 @@
  2000  git status
  2001  gitk
  2002  history > histocommandes.txt 
+ 2003  giclear
+ 2004  clear
+ 2005  git status
+ 2006  type solidpush
+ 2007  solidpush "hitorique des cmomandes"
+ 2008  solidpush "hitorique"
+ 2009  history > histocommandes.txt 
