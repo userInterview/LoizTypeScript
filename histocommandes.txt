@@ -1,1000 +1,1000 @@
- 1001  sudo java -jar lombok-1.18.4.jar
- 1002  sudo ls
- 1003  ls
- 1004  ls -l
- 1005  chmod +x lombok-1.18.4.jar
- 1006  ls -l
- 1007  sudo java -jar lombok-1.18.4.jar
- 1008  sudo java -jar lombok.jar
- 1009  cd ..
- 1010  ls
- 1011  cd ..
- 1012  ls
- 1013  cd snap
- 1014  ls
- 1015  cd eclipse
- 1016  ls
- 1017  snap version
- 1018  eclipse
- 1019  ./eclipse
- 1020  .\eclipse
- 1021  exit
- 1022  eclipse
- 1023  eclipse
- 1024  ./eclipse
- 1025  ./eclipse /home/loizani/Downloads/lombok.jar
- 1026  ./eclipse -javaagent:/home/loizani/Downloads/lombok.jar
- 1027  sudo ls
- 1028  java -jar lombok.jar
- 1029  sudo ls
- 1030  mvn package
- 1031  mvn install -DskipTests
- 1032  sudo ls -l
- 1033  java -Dspring.cloud.config.uri=http://admin:admin@localhost:8761/config -jar
- 1034  java -Dspring.cloud.config.uri=http://admin:admin@localhost:8761/config -jar  ava -jar target/gateway-1.0.1.jar 
- 1035  java -Dspring.cloud.config.uri=http://admin:admin@localhost:8761/config -jar target/gateway-1.0.1.jar 
- 1036  mvn deploy
- 1037  sudo ls
- 1038  curl -X GET "http://localhost:8081/service/rest/beta/repositories" -H "accept: application/json"
- 1039  curl -X GET "http://192.168.43.71:8081/service/rest/beta/repositories" -H "accept: application/json"
- 1040  curl -U asmin:admin -X GET "http://192.168.43.71:8081/service/rest/beta/repositories" -H "accept: application/json"
- 1041  curl -U admin:admin -X GET "http://192.168.43.71:8081/service/rest/beta/repositories" -H "accept: application/json"
- 1042  curl --user "admin:admin" -X GET "http://192.168.43.71:8081/service/rest/beta/repositories" -H "accept: application/json"
- 1043  curl --user "admin:admin" -X GET "http://192.168.43.71:8081/service/rest/beta/repositories" -H "accept: application/json"exit
- 1044  exit
- 1045  mvn deploy
- 1046  cd ~/.smartgit/
- 1047  whereami
- 1048  ls
- 1049  cd 18.1
- 1050  ls
- 1051  rm settings.xml
- 1052  ls
- 1053  ls -l
- 1054  npm install
- 1055  gulp
- 1056  cd /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
- 1057  gulp
- 1058  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
- 1059  cd /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
+ 1003  gulp
+ 1004  cd /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
+ 1005  gulp
+ 1006  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
+ 1007  cd /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli
+ 1008  gulp
+ 1009  .code
+ 1010  .cod
+ 1011  exit
+ 1012  node --version
+ 1013  ng --version
+ 1014  gulp --version
+ 1015  .code
+ 1016  \.code
+ 1017  /.code
+ 1018  exit
+ 1019  code .
+ 1020  cd ..
+ 1021  git clone https://github.com/LondonAppDev/angularjs-gulp-helloworld.git
+ 1022  gulp css
+ 1023  npm install
+ 1024  gulp css
+ 1025  gulp minicss
+ 1026  npm install
+ 1027  gulp minicss
+ 1028  npm install
+ 1029  gulp minicss
+ 1030  npm install
+ 1031  gulp minicss
+ 1032  npm install
+ 1033  gulp minicss
+ 1034  gulp
+ 1035  gulp start
+ 1036  gulp
+ 1037  clear
+ 1038  gulp
+ 1039  clear
+ 1040  gulp
+ 1041  clear
+ 1042  gulp
+ 1043  clear
+ 1044  gulp
+ 1045  clear
+ 1046  gulp
+ 1047  clear
+ 1048  gulp
+ 1049  clear
+ 1050  gulp
+ 1051  clear
+ 1052  gulp
+ 1053  clear
+ 1054  gulp
+ 1055  clear
+ 1056  gulp
+ 1057  clear
+ 1058  gulp
+ 1059  clear
  1060  gulp
- 1061  .code
- 1062  .cod
- 1063  exit
- 1064  node --version
- 1065  ng --version
- 1066  gulp --version
- 1067  .code
- 1068  \.code
- 1069  /.code
- 1070  exit
- 1071  code .
- 1072  cd ..
- 1073  git clone https://github.com/LondonAppDev/angularjs-gulp-helloworld.git
- 1074  gulp css
- 1075  npm install
- 1076  gulp css
- 1077  gulp minicss
- 1078  npm install
- 1079  gulp minicss
- 1080  npm install
- 1081  gulp minicss
- 1082  npm install
- 1083  gulp minicss
- 1084  npm install
- 1085  gulp minicss
- 1086  gulp
- 1087  gulp start
- 1088  gulp
- 1089  clear
- 1090  gulp
- 1091  clear
- 1092  gulp
- 1093  clear
- 1094  gulp
- 1095  clear
- 1096  gulp
- 1097  clear
- 1098  gulp
- 1099  clear
- 1100  gulp
- 1101  clear
- 1102  gulp
- 1103  clear
- 1104  gulp
- 1105  clear
- 1106  gulp
- 1107  clear
- 1108  gulp
- 1109  clear
- 1110  gulp
- 1111  clear
- 1112  gulp
- 1113  clear
- 1114  gulp
- 1115  clear
- 1116  gulp
- 1117  clear
- 1118  gulp
- 1119  clear
- 1120  gulp
- 1121  gulp Loiz_css_deploy
- 1122  gulp Loiz_deploy_css
- 1123  gulp Loiz_css_task
+ 1061  clear
+ 1062  gulp
+ 1063  clear
+ 1064  gulp
+ 1065  clear
+ 1066  gulp
+ 1067  clear
+ 1068  gulp
+ 1069  gulp Loiz_css_deploy
+ 1070  gulp Loiz_deploy_css
+ 1071  gulp Loiz_css_task
+ 1072  clear
+ 1073  gulp
+ 1074  clear
+ 1075  gulp
+ 1076  cd ../.
+ 1077  cd ang
+ 1078  ls
+ 1079  cd angularjs-gulp-helloworld
+ 1080  gulp
+ 1081  gulp start
+ 1082  gulp Loiz_deploy_task
+ 1083  gulp Loiz_deploy_sources
+ 1084  clear
+ 1085  gulp Loiz_deploy_sources
+ 1086  clear
+ 1087  gulp Loiz_deploy_sources
+ 1088  clear
+ 1089  gulp Loiz_deploy_sources
+ 1090  clear
+ 1091  gulp Loiz_deploy_sources
+ 1092  clear
+ 1093  gulp Loiz_deploy_sources
+ 1094  clear
+ 1095  gulp Loiz_deploy_sources
+ 1096  clear
+ 1097  gulp Loiz_deploy_sources
+ 1098  clear
+ 1099  gulp Loiz_deploy_sources
+ 1100  clear
+ 1101  gulp Loiz_deploy_sources
+ 1102  clear
+ 1103  gulp Loiz_deploy_sources
+ 1104  clear
+ 1105  gulp Loiz_deploy_sources
+ 1106  sudo
+ 1107  sudo ls
+ 1108  cd ~/.smartgit
+ 1109  ls
+ 1110  whereami
+ 1111  sudo apt install whereami
+ 1112  whereami
+ 1113  ls -l
+ 1114  pwd
+ 1115  git status
+ 1116  git checkout develop
+ 1117  git status
+ 1118  clear
+ 1119  git checkout develop
+ 1120  git status
+ 1121  gitk
+ 1122  clear
+ 1123  git show
  1124  clear
- 1125  gulp
- 1126  clear
- 1127  gulp
- 1128  cd ../.
- 1129  cd ang
- 1130  ls
- 1131  cd angularjs-gulp-helloworld
- 1132  gulp
- 1133  gulp start
- 1134  gulp Loiz_deploy_task
- 1135  gulp Loiz_deploy_sources
- 1136  clear
- 1137  gulp Loiz_deploy_sources
- 1138  clear
- 1139  gulp Loiz_deploy_sources
- 1140  clear
- 1141  gulp Loiz_deploy_sources
- 1142  clear
- 1143  gulp Loiz_deploy_sources
+ 1125  git status
+ 1126  git add .
+ 1127  git commit . -m "[DEVELOP] - commit modif dev No 1"
+ 1128  git commit -a -m "[DEVELOP] - commit modif dev No 2"
+ 1129  git commit -a -m "[DEVELOP] - commit modif dev No 3"
+ 1130  git commit -a -m "[DEVELOP] - commit modif dev No 4"
+ 1131  clear
+ 1132  git commit -a -m "[DEVELOP] - commit modif dev No 5"
+ 1133  clear
+ 1134  git commit -a -m "Début SPRINT 1"
+ 1135  git commit -a -m "Checkout sur DEVELOP et Modif No 1"
+ 1136  git commit -a -m "Modif No 2 sur DEVELOP"
+ 1137  git commit -a -m "Modif No 3 sur DEVELOP"
+ 1138  git commit -a -m "Modif No 4 sur DEVELOP"
+ 1139  git commit -a -m "Modif No 5 sur DEVELOP"
+ 1140  git commit -a -m "Modif No 4 sur DEVELOP"
+ 1141  git commit -a -m "Modif No 5 sur DEVELOP"
+ 1142  git status
+ 1143  q
  1144  clear
- 1145  gulp Loiz_deploy_sources
- 1146  clear
- 1147  gulp Loiz_deploy_sources
- 1148  clear
- 1149  gulp Loiz_deploy_sources
- 1150  clear
- 1151  gulp Loiz_deploy_sources
- 1152  clear
- 1153  gulp Loiz_deploy_sources
- 1154  clear
- 1155  gulp Loiz_deploy_sources
- 1156  clear
- 1157  gulp Loiz_deploy_sources
- 1158  sudo
- 1159  sudo ls
- 1160  cd ~/.smartgit
+ 1145  git checkout develop
+ 1146  git status
+ 1147  clear
+ 1148  git checkout develop
+ 1149  git rm --cached target/classes/META-INF/MANIFEST.MF
+ 1150  git checkout develop
+ 1151  git rm --cached /target/*
+ 1152  git checkout develop
+ 1153  git status
+ 1154  git checkout develop
+ 1155  git status
+ 1156  sudo apt install gitk
+ 1157  gitlab
+ 1158  sudo gitlab
+ 1159  ls
+ 1160  ./creerLoizContainer.sh
  1161  ls
- 1162  whereami
- 1163  sudo apt install whereami
- 1164  whereami
- 1165  ls -l
- 1166  pwd
- 1167  git status
- 1168  git checkout develop
- 1169  git status
- 1170  clear
- 1171  git checkout develop
- 1172  git status
- 1173  gitk
- 1174  clear
- 1175  git show
- 1176  clear
- 1177  git status
- 1178  git add .
- 1179  git commit . -m "[DEVELOP] - commit modif dev No 1"
- 1180  git commit -a -m "[DEVELOP] - commit modif dev No 2"
- 1181  git commit -a -m "[DEVELOP] - commit modif dev No 3"
- 1182  git commit -a -m "[DEVELOP] - commit modif dev No 4"
- 1183  clear
- 1184  git commit -a -m "[DEVELOP] - commit modif dev No 5"
- 1185  clear
- 1186  git commit -a -m "Début SPRINT 1"
- 1187  git commit -a -m "Checkout sur DEVELOP et Modif No 1"
- 1188  git commit -a -m "Modif No 2 sur DEVELOP"
- 1189  git commit -a -m "Modif No 3 sur DEVELOP"
- 1190  git commit -a -m "Modif No 4 sur DEVELOP"
- 1191  git commit -a -m "Modif No 5 sur DEVELOP"
- 1192  git commit -a -m "Modif No 4 sur DEVELOP"
- 1193  git commit -a -m "Modif No 5 sur DEVELOP"
- 1194  git status
- 1195  q
- 1196  clear
- 1197  git checkout develop
- 1198  git status
- 1199  clear
- 1200  git checkout develop
- 1201  git rm --cached target/classes/META-INF/MANIFEST.MF
- 1202  git checkout develop
- 1203  git rm --cached /target/*
- 1204  git checkout develop
- 1205  git status
- 1206  git checkout develop
- 1207  git status
- 1208  sudo apt install gitk
- 1209  gitlab
- 1210  sudo gitlab
- 1211  ls
- 1212  ./creerLoizContainer.sh
- 1213  ls
- 1214  ./executerLoizContainer.sh
- 1215  gedit
- 1216  ./executerLoizContainer.sh
- 1217  docker images -a
- 1218  sudo docker images -a
- 1219  docker container ls -a
- 1220  sudo docker container ls -a
- 1221  ./creerLoizContainer.sh
- 1222  cd ~/.local
- 1223  ll
- 1224  cd share/
- 1225  lq
- 1226  ll
- 1227  exit
- 1228  ng --version
- 1229  ng version
- 1230  tsc -v
- 1231  npm install -g @angular/cli
- 1232  ng -ver
- 1233  sudo npm install -g @angular/cli
- 1234  ng --version
- 1235  pwd
- 1236  ls
- 1237  cd Desktop/
- 1238  ng new Project_Flaws_Manager
- 1239  ng new ProjectFlawsManagement
- 1240  ls
- 1241  sudo rmdir ProjectFlawsManagement
- 1242  sudo rm ProjectFlawsManagement
- 1243  sudo rm -r ProjectFlawsManagement
- 1244  ls
- 1245  sudo ng new ProjectFlawsManagement
- 1246  npm -version
- 1247  sudo npm install -g npm@latest
- 1248  npm -version
- 1249  node -version
- 1250  node --version
- 1251  sudo rm -r ProjectFlawsManagement
- 1252  sudo ng new ProjectFlawsManagement
- 1253  npm cache clean --force
- 1254  sudo rm -r ProjectFlawsManagement
- 1255  clear
- 1256  sudo rm -r ProjectFlawsManagement
- 1257  clear
- 1258  sudo ng new ProjectFlawsManagement
- 1259  ls
- 1260  cd ProjectFlawsManagement/
- 1261  pwd
- 1262  ng ver
- 1263  ng -ver
- 1264  ng -version
- 1265  ng --version
- 1266  exit
- 1267  cd ..
- 1268  ng new Project_Flaws_Monitor
- 1269  npm --version
- 1270  npm list -g --depth=0
+ 1162  ./executerLoizContainer.sh
+ 1163  gedit
+ 1164  ./executerLoizContainer.sh
+ 1165  docker images -a
+ 1166  sudo docker images -a
+ 1167  docker container ls -a
+ 1168  sudo docker container ls -a
+ 1169  ./creerLoizContainer.sh
+ 1170  cd ~/.local
+ 1171  ll
+ 1172  cd share/
+ 1173  lq
+ 1174  ll
+ 1175  exit
+ 1176  ng --version
+ 1177  ng version
+ 1178  tsc -v
+ 1179  npm install -g @angular/cli
+ 1180  ng -ver
+ 1181  sudo npm install -g @angular/cli
+ 1182  ng --version
+ 1183  pwd
+ 1184  ls
+ 1185  cd Desktop/
+ 1186  ng new Project_Flaws_Manager
+ 1187  ng new ProjectFlawsManagement
+ 1188  ls
+ 1189  sudo rmdir ProjectFlawsManagement
+ 1190  sudo rm ProjectFlawsManagement
+ 1191  sudo rm -r ProjectFlawsManagement
+ 1192  ls
+ 1193  sudo ng new ProjectFlawsManagement
+ 1194  npm -version
+ 1195  sudo npm install -g npm@latest
+ 1196  npm -version
+ 1197  node -version
+ 1198  node --version
+ 1199  sudo rm -r ProjectFlawsManagement
+ 1200  sudo ng new ProjectFlawsManagement
+ 1201  npm cache clean --force
+ 1202  sudo rm -r ProjectFlawsManagement
+ 1203  clear
+ 1204  sudo rm -r ProjectFlawsManagement
+ 1205  clear
+ 1206  sudo ng new ProjectFlawsManagement
+ 1207  ls
+ 1208  cd ProjectFlawsManagement/
+ 1209  pwd
+ 1210  ng ver
+ 1211  ng -ver
+ 1212  ng -version
+ 1213  ng --version
+ 1214  exit
+ 1215  cd ..
+ 1216  ng new Project_Flaws_Monitor
+ 1217  npm --version
+ 1218  npm list -g --depth=0
+ 1219  ng serve
+ 1220  ng build
+ 1221  ./loizOpenVSCode.sh
+ 1222  pwd
+ 1223  node --version
+ 1224  sudo mv /home/loizani/Desktop/ProjectFlawsManagement/* /home/loizani/Desktop/Workspace/ProjectFlawsManagement
+ 1225  --help
+ 1226  -help
+ 1227  help
+ 1228  sudo mkdir ProjectFlawsManagement
+ 1229  clear
+ 1230  sudo mv /home/loizani/Desktop/ProjectFlawsManagement/* /home/loizani/Desktop/Workspace/ProjectFlawsManagement
+ 1231  ls
+ 1232  cd ..
+ 1233  ls
+ 1234  ll
+ 1235  clear
+ 1236  ll
+ 1237  cd ProjectFlawsManagement/
+ 1238  ll
+ 1239  ll -l
+ 1240  cd ..
+ 1241  cd Workspace/
+ 1242  ll
+ 1243  cd Pr
+ 1244  ProjectFlawsManagement/
+ 1245  ll
+ 1246  cd ProjectFlawsManagement/
+ 1247  ll
+ 1248  cd ..
+ 1249  ll
+ 1250  cd ..
+ 1251  ll
+ 1252  sudo rm -r ProjectFlawsManagement
+ 1253  ll
+ 1254  clear
+ 1255  ll
+ 1256  cd Workspace/
+ 1257  ll
+ 1258  cd ProjectFlawsManagement/
+ 1259  pwd
+ 1260  ng serve
+ 1261  sudo apt update
+ 1262  sudo apt upgrade
+ 1263  cd  /var/lib/apt/lists/
+ 1264  cd -
+ 1265  clear
+ 1266  sudo rm -r /var/lib/apt/lists/*
+ 1267  sudo apt update
+ 1268  clear
+ 1269  sudo apt full-upgrade
+ 1270  exit
  1271  ng serve
- 1272  ng build
- 1273  ./loizOpenVSCode.sh
- 1274  pwd
- 1275  node --version
- 1276  sudo mv /home/loizani/Desktop/ProjectFlawsManagement/* /home/loizani/Desktop/Workspace/ProjectFlawsManagement
- 1277  --help
- 1278  -help
- 1279  help
- 1280  sudo mkdir ProjectFlawsManagement
- 1281  clear
- 1282  sudo mv /home/loizani/Desktop/ProjectFlawsManagement/* /home/loizani/Desktop/Workspace/ProjectFlawsManagement
- 1283  ls
- 1284  cd ..
- 1285  ls
- 1286  ll
- 1287  clear
- 1288  ll
- 1289  cd ProjectFlawsManagement/
- 1290  ll
- 1291  ll -l
- 1292  cd ..
- 1293  cd Workspace/
- 1294  ll
- 1295  cd Pr
- 1296  ProjectFlawsManagement/
- 1297  ll
- 1298  cd ProjectFlawsManagement/
- 1299  ll
- 1300  cd ..
- 1301  ll
- 1302  cd ..
- 1303  ll
- 1304  sudo rm -r ProjectFlawsManagement
- 1305  ll
- 1306  clear
- 1307  ll
- 1308  cd Workspace/
- 1309  ll
- 1310  cd ProjectFlawsManagement/
- 1311  pwd
- 1312  ng serve
- 1313  sudo apt update
- 1314  sudo apt upgrade
- 1315  cd  /var/lib/apt/lists/
- 1316  cd -
- 1317  clear
- 1318  sudo rm -r /var/lib/apt/lists/*
- 1319  sudo apt update
- 1320  clear
- 1321  sudo apt full-upgrade
- 1322  exit
- 1323  ng serve
- 1324  git status
- 1325  git init
- 1326  sudo git init
- 1327  git status
- 1328  git remote -v
- 1329  clear
- 1330  npm install --save-dev bootstrap
- 1331  sudo npm install --save-dev bootstrap
- 1332  tsc -v
- 1333  git status
- 1334  sudo git add *.*
- 1335  git status
- 1336  git add src/**
- 1337  sudo git add src/**
- 1338  git status
- 1339  git add e2e/**
- 1340  sudo git add e2e/**
- 1341  git status
- 1342  sudo git commit -m "fenetrage template et bootsrap 4.6.0 present sous angular 11"
- 1343  git status
- 1344  sudo . code
- 1345  sudo ls
- 1346  ls
- 1347  . code
- 1348  git status
- 1349  npm start
- 1350  npm list --depth=0
- 1351  npm uninstall bootstrap@4.6.0
- 1352  npm list --depth=0
- 1353  npm uninstall bootstrap
- 1354  npm list --depth=0
- 1355  npm install --save-dev bootstrap@4.3.1
- 1356  npm install --save-dev jquery@1.9.1 poper.js@^1.14.7 
- 1357  npm install --save-dev jquery@1.9.1 popper.js@^1.14.7 
- 1358  npm list --depth=0
- 1359  clear
- 1360  npm start
- 1361  npm uninstall jquery@1.9.1 popper.js@^1.14.7 
- 1362  npm uninstall boostrap
- 1363  npm list --depth=0
- 1364  npm uninstall bootstrap
- 1365  npm list --depth=0
- 1366  clear
- 1367  npm install --save-dev bootstrap@4.4.1
- 1368  npm list --depth=0
- 1369  npm start
- 1370  ng serve
- 1371  npm list --depth=0
- 1372  npm uninstall jquery@1.9.1 popper.js@1.16.1
- 1373  clear
- 1374  npm prune
- 1375  clear
- 1376  npm install
- 1377  npm list --depth=0
- 1378  npm uninstall bootstrap
- 1379  npm list --depth=0
- 1380  ng serve
- 1381  npm install bootstrap@4.3.1
- 1382  npm list --depth=0
- 1383  clear
- 1384  ng serve
- 1385  npm list --depth=0
- 1386  clear
- 1387  npm uninstall bootstrap
- 1388  pwd
- 1389  sudo mv /media/sf_PartageVMConserto/bootstrap 4.6.0/v460 /home/loizani/Desktop/Workspace/ProjectFlawsManagement
- 1390  sudo mv /media/sf_PartageVMConserto/bootstrap%204.6.0/v460 /home/loizani/Desktop/Workspace/ProjectFlawsManagement
- 1391  sudo mv /media/sf_PartageVMConserto/bootstrap460/v460 /home/loizani/Desktop/Workspace/ProjectFlawsManagement
- 1392  pwd
- 1393  npm list --depth=0
- 1394  ng serve
- 1395  sudo code --user-data-dir="~/.vscode-root"
- 1396  npm list --depth=0
- 1397  ng serve
- 1398  npm install bootstrap
- 1399  npm install jquery@1.9.1
- 1400  npm install popper.js@^1.16.1 
- 1401  npm list --depth=0
- 1402  ng serve
- 1403  ng build
- 1404  ng serve
- 1405  sudo ng config defaults.styleExt=css
- 1406  ng config schematics.@schematics/angular:component.styleext css
- 1407  ng serve
- 1408  git status
- 1409  git add src/**
- 1410  git status
- 1411  sudo code --user-data-dir="~/.vscode-root"
- 1412  ng serve
- 1413  git status
- 1414  git add *.*
- 1415  git status
- 1416  git commit -m "encard gris et variables css supplémentaires"
+ 1272  git status
+ 1273  git init
+ 1274  sudo git init
+ 1275  git status
+ 1276  git remote -v
+ 1277  clear
+ 1278  npm install --save-dev bootstrap
+ 1279  sudo npm install --save-dev bootstrap
+ 1280  tsc -v
+ 1281  git status
+ 1282  sudo git add *.*
+ 1283  git status
+ 1284  git add src/**
+ 1285  sudo git add src/**
+ 1286  git status
+ 1287  git add e2e/**
+ 1288  sudo git add e2e/**
+ 1289  git status
+ 1290  sudo git commit -m "fenetrage template et bootsrap 4.6.0 present sous angular 11"
+ 1291  git status
+ 1292  sudo . code
+ 1293  sudo ls
+ 1294  ls
+ 1295  . code
+ 1296  git status
+ 1297  npm start
+ 1298  npm list --depth=0
+ 1299  npm uninstall bootstrap@4.6.0
+ 1300  npm list --depth=0
+ 1301  npm uninstall bootstrap
+ 1302  npm list --depth=0
+ 1303  npm install --save-dev bootstrap@4.3.1
+ 1304  npm install --save-dev jquery@1.9.1 poper.js@^1.14.7 
+ 1305  npm install --save-dev jquery@1.9.1 popper.js@^1.14.7 
+ 1306  npm list --depth=0
+ 1307  clear
+ 1308  npm start
+ 1309  npm uninstall jquery@1.9.1 popper.js@^1.14.7 
+ 1310  npm uninstall boostrap
+ 1311  npm list --depth=0
+ 1312  npm uninstall bootstrap
+ 1313  npm list --depth=0
+ 1314  clear
+ 1315  npm install --save-dev bootstrap@4.4.1
+ 1316  npm list --depth=0
+ 1317  npm start
+ 1318  ng serve
+ 1319  npm list --depth=0
+ 1320  npm uninstall jquery@1.9.1 popper.js@1.16.1
+ 1321  clear
+ 1322  npm prune
+ 1323  clear
+ 1324  npm install
+ 1325  npm list --depth=0
+ 1326  npm uninstall bootstrap
+ 1327  npm list --depth=0
+ 1328  ng serve
+ 1329  npm install bootstrap@4.3.1
+ 1330  npm list --depth=0
+ 1331  clear
+ 1332  ng serve
+ 1333  npm list --depth=0
+ 1334  clear
+ 1335  npm uninstall bootstrap
+ 1336  pwd
+ 1337  sudo mv /media/sf_PartageVMConserto/bootstrap 4.6.0/v460 /home/loizani/Desktop/Workspace/ProjectFlawsManagement
+ 1338  sudo mv /media/sf_PartageVMConserto/bootstrap%204.6.0/v460 /home/loizani/Desktop/Workspace/ProjectFlawsManagement
+ 1339  sudo mv /media/sf_PartageVMConserto/bootstrap460/v460 /home/loizani/Desktop/Workspace/ProjectFlawsManagement
+ 1340  pwd
+ 1341  npm list --depth=0
+ 1342  ng serve
+ 1343  sudo code --user-data-dir="~/.vscode-root"
+ 1344  npm list --depth=0
+ 1345  ng serve
+ 1346  npm install bootstrap
+ 1347  npm install jquery@1.9.1
+ 1348  npm install popper.js@^1.16.1 
+ 1349  npm list --depth=0
+ 1350  ng serve
+ 1351  ng build
+ 1352  ng serve
+ 1353  sudo ng config defaults.styleExt=css
+ 1354  ng config schematics.@schematics/angular:component.styleext css
+ 1355  ng serve
+ 1356  git status
+ 1357  git add src/**
+ 1358  git status
+ 1359  sudo code --user-data-dir="~/.vscode-root"
+ 1360  ng serve
+ 1361  git status
+ 1362  git add *.*
+ 1363  git status
+ 1364  git commit -m "encard gris et variables css supplémentaires"
+ 1365  git status
+ 1366  git add --all
+ 1367  git status
+ 1368  clear
+ 1369  git status
+ 1370  git add src/**
+ 1371  git status
+ 1372  git add src/**
+ 1373  git status
+ 1374  git ignore v460
+ 1375  git status
+ 1376  git add src
+ 1377  git status
+ 1378  git commit -m "encard gris et variables css supplémentaires"
+ 1379  git status
+ 1380  sudo code --user-data-dir="~/.vscode-root"
+ 1381  cd  ~/.smartgit/
+ 1382  pwd
+ 1383  cd  ~/.smartgit/
+ 1384  pwd
+ 1385  find smartgit.sh
+ 1386  sudo grep smartgit
+ 1387  find ~/ -type f -name "smartgit"
+ 1388  sudo find ~/ -type f -name "smartgit"
+ 1389  sudo find ~/ -name "smartgit"
+ 1390  sudo find ~/ -name "*smartgit*"
+ 1391  clear
+ 1392  sudo find ~/ -name "*smartgit*"
+ 1393  clear
+ 1394  sudo find ~/ -name "*smartgit*"
+ 1395  sudo ./smartgit.sh
+ 1396  sudo ls
+ 1397  ./smartgit.sh
+ 1398  cd bin
+ 1399  ls
+ 1400  ls -l
+ 1401  cd ../sbin
+ 1402  ls
+ 1403  ls -l
+ 1404  cd ../share/
+ 1405  ls
+ 1406  cd ~
+ 1407  pwd
+ 1408  cd ~/.vscode-root
+ 1409  find "syntevo"
+ 1410  find / -name '*artgit*'
+ 1411  cd ~/.local/share/applications
+ 1412  pwd
+ 1413  ls
+ 1414  cs ProjectFlawsManagement/
+ 1415  cd ProjectFlawsManagement/
+ 1416  cd app
  1417  git status
- 1418  git add --all
+ 1418  git add src/**
  1419  git status
- 1420  clear
+ 1420  Git commit -m "Arrière plan violet type corporate"
  1421  git status
- 1422  git add src/**
+ 1422  ng g c app/compTitreNav
  1423  git status
  1424  git add src/**
  1425  git status
- 1426  git ignore v460
+ 1426  clear
  1427  git status
- 1428  git add src
+ 1428  clear
  1429  git status
- 1430  git commit -m "encard gris et variables css supplémentaires"
+ 1430  git add src/**
  1431  git status
- 1432  sudo code --user-data-dir="~/.vscode-root"
- 1433  cd  ~/.smartgit/
- 1434  pwd
- 1435  cd  ~/.smartgit/
- 1436  pwd
- 1437  find smartgit.sh
- 1438  sudo grep smartgit
- 1439  find ~/ -type f -name "smartgit"
- 1440  sudo find ~/ -type f -name "smartgit"
- 1441  sudo find ~/ -name "smartgit"
- 1442  sudo find ~/ -name "*smartgit*"
+ 1432  git add src/**
+ 1433  git status
+ 1434  git commit -m "sauvegarde parametrage par variable css"
+ 1435  git status
+ 1436  ng g c nav-gauche
+ 1437  ng g c rub-nav-gauche
+ 1438  ng g contenu-tout-projet
+ 1439  ng g c contenu-tout-projet
+ 1440  ng g c contenu-projets
+ 1441  ng g c contenu-vue-projets
+ 1442  ng g c contenu-vue-produits
  1443  clear
- 1444  sudo find ~/ -name "*smartgit*"
- 1445  clear
- 1446  sudo find ~/ -name "*smartgit*"
- 1447  sudo ./smartgit.sh
- 1448  sudo ls
- 1449  ./smartgit.sh
- 1450  cd bin
+ 1444  ng serve
+ 1445  git status
+ 1446  dit add src/**
+ 1447  git add src/**
+ 1448  git status
+ 1449  git commit -m "creation de composants pour test navigation - titre app en attribut (parametré dans environnement)"
+ 1450  git status
  1451  ls
- 1452  ls -l
- 1453  cd ../sbin
- 1454  ls
- 1455  ls -l
- 1456  cd ../share/
- 1457  ls
- 1458  cd ~
- 1459  pwd
- 1460  cd ~/.vscode-root
- 1461  find "syntevo"
- 1462  find / -name '*artgit*'
- 1463  cd ~/.local/share/applications
- 1464  pwd
- 1465  ls
- 1466  cs ProjectFlawsManagement/
- 1467  cd ProjectFlawsManagement/
- 1468  cd app
- 1469  git status
+ 1452  cd ~
+ 1453  pwd
+ 1454  clear
+ 1455  cd /usr/share/smartgit/bin
+ 1456  sudo ./smartgit.sh 
+ 1457  ng serve
+ 1458  ng g c panneau-filtre-haut
+ 1459  sudo code --user-data-dir="~/.vscode-root"
+ 1460  ng serve
+ 1461  ng serve
+ 1462  ng generate principal-contenu
+ 1463  ng generate component principal-contenu
+ 1464  ng serve
+ 1465  ng generate component principal-contenu
+ 1466  ng serve
+ 1467  gi status
+ 1468  git status
+ 1469  gid add src/**
  1470  git add src/**
  1471  git status
- 1472  Git commit -m "Arrière plan violet type corporate"
- 1473  git status
- 1474  ng g c app/compTitreNav
- 1475  git status
- 1476  git add src/**
- 1477  git status
- 1478  clear
- 1479  git status
- 1480  clear
- 1481  git status
- 1482  git add src/**
- 1483  git status
- 1484  git add src/**
+ 1472  git commit -m "double routing à terminer (mecanique ok pour produit)"
+ 1473  sudo ./loizpathlog/
+ 1474  ls
+ 1475  ng serve
+ 1476  git status
+ 1477  git add src/**
+ 1478  git status
+ 1479  git commit -m "double routing implémenté sur  home, projets, produits"
+ 1480  git status
+ 1481  ng serve
+ 1482  git status
+ 1483  git add src/**
+ 1484  git commit -m "routage par typescript (voir lien 'primary' du nav et imposition d'une url lisible)"
  1485  git status
- 1486  git commit -m "sauvegarde parametrage par variable css"
+ 1486  ng serve
  1487  git status
- 1488  ng g c nav-gauche
- 1489  ng g c rub-nav-gauche
- 1490  ng g contenu-tout-projet
- 1491  ng g c contenu-tout-projet
- 1492  ng g c contenu-projets
- 1493  ng g c contenu-vue-projets
- 1494  ng g c contenu-vue-produits
- 1495  clear
- 1496  ng serve
+ 1488  git add src/**
+ 1489  git commit -m "routage par typescript par url lisible pour les trois rubrique"
+ 1490  git add src/**
+ 1491  git status
+ 1492  ng serve
+ 1493  git status
+ 1494  git add src/**
+ 1495  git status
+ 1496  git commit -m "implementation d'une fonction de massquage d'url complexe distinguant lien ancre et autre"
  1497  git status
- 1498  dit add src/**
- 1499  git add src/**
- 1500  git status
- 1501  git commit -m "creation de composants pour test navigation - titre app en attribut (parametré dans environnement)"
- 1502  git status
- 1503  ls
- 1504  cd ~
- 1505  pwd
- 1506  clear
- 1507  cd /usr/share/smartgit/bin
- 1508  sudo ./smartgit.sh 
- 1509  ng serve
- 1510  ng g c panneau-filtre-haut
- 1511  sudo code --user-data-dir="~/.vscode-root"
- 1512  ng serve
- 1513  ng serve
- 1514  ng generate principal-contenu
- 1515  ng generate component principal-contenu
- 1516  ng serve
- 1517  ng generate component principal-contenu
- 1518  ng serve
- 1519  gi status
- 1520  git status
- 1521  gid add src/**
- 1522  git add src/**
- 1523  git status
- 1524  git commit -m "double routing à terminer (mecanique ok pour produit)"
- 1525  sudo ./loizpathlog/
- 1526  ls
- 1527  ng serve
- 1528  git status
- 1529  git add src/**
- 1530  git status
- 1531  git commit -m "double routing implémenté sur  home, projets, produits"
- 1532  git status
- 1533  ng serve
- 1534  git status
- 1535  git add src/**
- 1536  git commit -m "routage par typescript (voir lien 'primary' du nav et imposition d'une url lisible)"
- 1537  git status
- 1538  ng serve
- 1539  git status
- 1540  git add src/**
- 1541  git commit -m "routage par typescript par url lisible pour les trois rubrique"
- 1542  git add src/**
- 1543  git status
- 1544  ng serve
- 1545  git status
- 1546  git add src/**
- 1547  git status
- 1548  git commit -m "implementation d'une fonction de massquage d'url complexe distinguant lien ancre et autre"
- 1549  git status
- 1550  pwd
- 1551  cd Desktop
- 1552  ls
- 1553  sudo ./loizOpenVSCode.sh 
- 1554  cd ProjectFlawsManagement/
- 1555  ng serve
- 1556  cd app
- 1557  ls
- 1558  cd src/app
- 1559  ls
- 1560  ng g c encard-haut-gauche-rubrique
- 1561  cd ../..
- 1562  ng g c NavTitreRubrique
- 1563  ng generate service sameLevelDataShare
- 1564  cd Desktop/
- 1565  sudo ./loizOpenVSCode.sh 
- 1566  ng serve
- 1567  pwd
- 1568  sudo ./loizOpenVSCode.sh 
- 1569  ls
- 1570  pwd
- 1571  cd Desktop/
- 1572  sudo ./loizOpenVSCode.sh 
- 1573  cd Desktop/
- 1574  ls
- 1575  exit
- 1576  cd Desktop/
- 1577  sudo ./loizOpenVSCode.sh 
- 1578  ng serve
- 1579  npm list -g --depth 0
- 1580  dir
- 1581  ls
- 1582  node LoizObsStudy.js
- 1583  tsc LoizObsStudy.ts
- 1584  node LoizObsStudy.js
- 1585  npm run test
- 1586  npm install --save-dev rxjs
- 1587  ts LoizObsStudy.ts
- 1588  tsc LoizObsStudy.ts
- 1589  tsc --version
- 1590  npm list -g --depth 0
- 1591  npm install -g typescript
- 1592  tsc LoizObsStudy.ts
- 1593  tsc --version
- 1594  npm list -g --depth 0
- 1595  tsc -version
- 1596  tsc --version
- 1597  tsc -help
- 1598  node LoizObsStudy.js
- 1599  node -v
- 1600  npm list -g --depth 0
- 1601  npm install --save-dev typescript
- 1602  npm init
- 1603  npm install --save-dev ts-node
- 1604  npm install --save ts-node
- 1605  npm list -save --depth 0
- 1606  npm list --save-dev --depth 0
- 1607  npm list -save --depth 0
- 1608  ts-node LoizObsStudy.ts
- 1609  npm install
- 1610  ts-node LoizObsStudy.ts
- 1611  npm install -g ts-node
- 1612  ts-node LoizObsStudy.ts
- 1613  sudo npm list --save --depth 0
- 1614  sudo npm install -g ts-node
- 1615  sudo ts-node LoizObsStudy.ts
- 1616  npm install
- 1617  clear
- 1618  ts-node LoizObsStudy.ts 
- 1619  clear
- 1620  npm install --save-dev ts-node '@types/node'
- 1621  npm install --save ts-node '@types/node'
- 1622  node --version
- 1623  clear
- 1624  ts-node LoizObsStudy.ts 
- 1625  ls
- 1626  tsc --init
- 1627  ts-node LoizObsStudy.ts 
- 1628  clear
- 1629  ts-node LoizObsStudy.ts 
- 1630  clear
- 1631  ts-node LoizObsStudy.ts 
- 1632  npm i node-fetch --save --save-dev
- 1633  clear
- 1634  ts-node LoizObsStudy.ts 
- 1635  npm i node-fetch -g
- 1636  clear
- 1637  ts-node LoizObsStudy.ts 
- 1638  clear
- 1639  npm i --save-dev @types/node-fetch
- 1640  clear
- 1641  ts-node LoizObsStudy.ts 
- 1642  tsc LoizObsStudy.ts
- 1643  node LoizObsStudy.js
- 1644  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1645  clear
- 1646  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1647  clear
- 1648  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1649  clear
- 1650  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1651  clear
- 1652  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1653  cd Desktop/
- 1654  ls
- 1655  ./loizOpenVSCode.sh 
- 1656  exit
- 1657  tslint -v
- 1658  npm install tslint --save-dev
- 1659  clear
- 1660  npm list --save-dev --depth 0
- 1661  npm list --save-dev --depth=0
- 1662  npm install tslint --save-dev
- 1663  npm list --save-dev --depth=0
- 1664  tslint -v
- 1665  tslint --init
- 1666  tslint -v
- 1667  tsc -v
- 1668  tslint -v
- 1669  npm install tslint typescript --save-dev
- 1670  tslint -v
- 1671  eslint -v
- 1672  Eslint -v
- 1673  npm install
- 1674  tslint -v
- 1675  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1676  clear
- 1677  sudo npm install tslint --save-dev
- 1678  tslint -v
- 1679  sudo npm install tslint typescript --save-dev
- 1680  tslint -v
- 1681  npm uninstall tslint
- 1682  npm list --save-dev --depth=0
- 1683  npm install eslint --save-dev
- 1684  eslint -v
- 1685  npx eslint -v
- 1686  npm eslint -v
- 1687  npm eslint --init
- 1688  npx eslint --init
- 1689  touch .eslintignore
- 1690  npm loizlint
- 1691  npm run loizlint
- 1692  cd Desktop/
- 1693  ./loizOpenVSCode.sh 
- 1694  eslint
- 1695  eslint /help
- 1696  npm eslint -v
- 1697  eslint -v
- 1698  node_modules/.bin/eslint -v
- 1699  eslint . --ext .ts
- 1700  npm run eslint . --ext .ts
- 1701  eslint . --ext .ts
- 1702  eslint --ext .ts
- 1703  eslint . --ext .ts
- 1704  npm run eslint . --ext .ts
- 1705  node_modules/.bin/eslint . --ext .ts
- 1706  npm eslint . --ext .ts
- 1707  npm log --depth=0
- 1708  node_modules/.bin/eslint . --ext .ts
- 1709  node_modules/.bin/eslint .ts
- 1710  node_modules/.bin/eslint *.ts
- 1711  npm list -g
- 1712  npm list -g --depth=0
- 1713  npm list --depth=0
- 1714  history > histocommandes.txt
- 1715  ts LoizObsStudy.ts || node LoizObsStudy.js
- 1716  tsc LoizObsStudy.ts || node LoizObsStudy.js
- 1717  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1718  clear
- 1719  node_modules/.bin/eslint --ext .ts
- 1720  node_modules/.bin/eslint . --ext .ts
- 1721  . loizOpenVSCode.sh
- 1722  . loizOpenVSCode
- 1723  . code
- 1724  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/@eslint/eslint . --ext .ts
- 1725  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/@eslint . --ext .ts
- 1726  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint . --ext .ts
- 1727  alias
- 1728  cd Desktop/
- 1729  source loizOpenVSCode
- 1730  source loizOpenVSCode.sh
- 1731  . loizOpenVSCode
- 1732  . loizOpenVSCode.sh
- 1733  cat loizOpenVSCode.sh
- 1734  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint . --ext .ts
- 1735  sudo export loizeslint=/home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint
- 1736  export loizeslint=/home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint
- 1737  echo $PATH
- 1738  echo $loizeslint
- 1739  unset loizeslint
- 1740  echo $loizeslint
- 1741  clear
- 1742  source ~/.bashrc
- 1743  cat ~/.bashrc
- 1744  clear
- 1745  cat ~/.bashrc
- 1746  sudo gedit  ~/.bashrc
- 1747  alias
- 1748  alias loizelslint='/home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint'
- 1749  alias
- 1750  ./loizOpenVSCode.sh 
- 1751  alias
- 1752  cd Desktop/
- 1753  ./loizOpenVSCode.sh 
- 1754  sudo gedit  ~/.bashrc
- 1755  echo $PATH
- 1756  exit
- 1757  echo $PATH
- 1758  echo $PATH
- 1759  eslint . --ext .ts
- 1760  exit
- 1761  pwd
- 1762  cd Desktop/
- 1763  . loizOpenVSCode.sh
- 1764  sudo gedit  ~/.bashrc
- 1765  echo $PATH
- 1766  eslint -v
- 1767  elslint -v
+ 1498  pwd
+ 1499  cd Desktop
+ 1500  ls
+ 1501  sudo ./loizOpenVSCode.sh 
+ 1502  cd ProjectFlawsManagement/
+ 1503  ng serve
+ 1504  cd app
+ 1505  ls
+ 1506  cd src/app
+ 1507  ls
+ 1508  ng g c encard-haut-gauche-rubrique
+ 1509  cd ../..
+ 1510  ng g c NavTitreRubrique
+ 1511  ng generate service sameLevelDataShare
+ 1512  cd Desktop/
+ 1513  sudo ./loizOpenVSCode.sh 
+ 1514  ng serve
+ 1515  pwd
+ 1516  sudo ./loizOpenVSCode.sh 
+ 1517  ls
+ 1518  pwd
+ 1519  cd Desktop/
+ 1520  sudo ./loizOpenVSCode.sh 
+ 1521  cd Desktop/
+ 1522  ls
+ 1523  exit
+ 1524  cd Desktop/
+ 1525  sudo ./loizOpenVSCode.sh 
+ 1526  ng serve
+ 1527  npm list -g --depth 0
+ 1528  dir
+ 1529  ls
+ 1530  node LoizObsStudy.js
+ 1531  tsc LoizObsStudy.ts
+ 1532  node LoizObsStudy.js
+ 1533  npm run test
+ 1534  npm install --save-dev rxjs
+ 1535  ts LoizObsStudy.ts
+ 1536  tsc LoizObsStudy.ts
+ 1537  tsc --version
+ 1538  npm list -g --depth 0
+ 1539  npm install -g typescript
+ 1540  tsc LoizObsStudy.ts
+ 1541  tsc --version
+ 1542  npm list -g --depth 0
+ 1543  tsc -version
+ 1544  tsc --version
+ 1545  tsc -help
+ 1546  node LoizObsStudy.js
+ 1547  node -v
+ 1548  npm list -g --depth 0
+ 1549  npm install --save-dev typescript
+ 1550  npm init
+ 1551  npm install --save-dev ts-node
+ 1552  npm install --save ts-node
+ 1553  npm list -save --depth 0
+ 1554  npm list --save-dev --depth 0
+ 1555  npm list -save --depth 0
+ 1556  ts-node LoizObsStudy.ts
+ 1557  npm install
+ 1558  ts-node LoizObsStudy.ts
+ 1559  npm install -g ts-node
+ 1560  ts-node LoizObsStudy.ts
+ 1561  sudo npm list --save --depth 0
+ 1562  sudo npm install -g ts-node
+ 1563  sudo ts-node LoizObsStudy.ts
+ 1564  npm install
+ 1565  clear
+ 1566  ts-node LoizObsStudy.ts 
+ 1567  clear
+ 1568  npm install --save-dev ts-node '@types/node'
+ 1569  npm install --save ts-node '@types/node'
+ 1570  node --version
+ 1571  clear
+ 1572  ts-node LoizObsStudy.ts 
+ 1573  ls
+ 1574  tsc --init
+ 1575  ts-node LoizObsStudy.ts 
+ 1576  clear
+ 1577  ts-node LoizObsStudy.ts 
+ 1578  clear
+ 1579  ts-node LoizObsStudy.ts 
+ 1580  npm i node-fetch --save --save-dev
+ 1581  clear
+ 1582  ts-node LoizObsStudy.ts 
+ 1583  npm i node-fetch -g
+ 1584  clear
+ 1585  ts-node LoizObsStudy.ts 
+ 1586  clear
+ 1587  npm i --save-dev @types/node-fetch
+ 1588  clear
+ 1589  ts-node LoizObsStudy.ts 
+ 1590  tsc LoizObsStudy.ts
+ 1591  node LoizObsStudy.js
+ 1592  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1593  clear
+ 1594  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1595  clear
+ 1596  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1597  clear
+ 1598  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1599  clear
+ 1600  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1601  cd Desktop/
+ 1602  ls
+ 1603  ./loizOpenVSCode.sh 
+ 1604  exit
+ 1605  tslint -v
+ 1606  npm install tslint --save-dev
+ 1607  clear
+ 1608  npm list --save-dev --depth 0
+ 1609  npm list --save-dev --depth=0
+ 1610  npm install tslint --save-dev
+ 1611  npm list --save-dev --depth=0
+ 1612  tslint -v
+ 1613  tslint --init
+ 1614  tslint -v
+ 1615  tsc -v
+ 1616  tslint -v
+ 1617  npm install tslint typescript --save-dev
+ 1618  tslint -v
+ 1619  eslint -v
+ 1620  Eslint -v
+ 1621  npm install
+ 1622  tslint -v
+ 1623  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1624  clear
+ 1625  sudo npm install tslint --save-dev
+ 1626  tslint -v
+ 1627  sudo npm install tslint typescript --save-dev
+ 1628  tslint -v
+ 1629  npm uninstall tslint
+ 1630  npm list --save-dev --depth=0
+ 1631  npm install eslint --save-dev
+ 1632  eslint -v
+ 1633  npx eslint -v
+ 1634  npm eslint -v
+ 1635  npm eslint --init
+ 1636  npx eslint --init
+ 1637  touch .eslintignore
+ 1638  npm loizlint
+ 1639  npm run loizlint
+ 1640  cd Desktop/
+ 1641  ./loizOpenVSCode.sh 
+ 1642  eslint
+ 1643  eslint /help
+ 1644  npm eslint -v
+ 1645  eslint -v
+ 1646  node_modules/.bin/eslint -v
+ 1647  eslint . --ext .ts
+ 1648  npm run eslint . --ext .ts
+ 1649  eslint . --ext .ts
+ 1650  eslint --ext .ts
+ 1651  eslint . --ext .ts
+ 1652  npm run eslint . --ext .ts
+ 1653  node_modules/.bin/eslint . --ext .ts
+ 1654  npm eslint . --ext .ts
+ 1655  npm log --depth=0
+ 1656  node_modules/.bin/eslint . --ext .ts
+ 1657  node_modules/.bin/eslint .ts
+ 1658  node_modules/.bin/eslint *.ts
+ 1659  npm list -g
+ 1660  npm list -g --depth=0
+ 1661  npm list --depth=0
+ 1662  history > histocommandes.txt
+ 1663  ts LoizObsStudy.ts || node LoizObsStudy.js
+ 1664  tsc LoizObsStudy.ts || node LoizObsStudy.js
+ 1665  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1666  clear
+ 1667  node_modules/.bin/eslint --ext .ts
+ 1668  node_modules/.bin/eslint . --ext .ts
+ 1669  . loizOpenVSCode.sh
+ 1670  . loizOpenVSCode
+ 1671  . code
+ 1672  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/@eslint/eslint . --ext .ts
+ 1673  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/@eslint . --ext .ts
+ 1674  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint . --ext .ts
+ 1675  alias
+ 1676  cd Desktop/
+ 1677  source loizOpenVSCode
+ 1678  source loizOpenVSCode.sh
+ 1679  . loizOpenVSCode
+ 1680  . loizOpenVSCode.sh
+ 1681  cat loizOpenVSCode.sh
+ 1682  /home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint . --ext .ts
+ 1683  sudo export loizeslint=/home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint
+ 1684  export loizeslint=/home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint
+ 1685  echo $PATH
+ 1686  echo $loizeslint
+ 1687  unset loizeslint
+ 1688  echo $loizeslint
+ 1689  clear
+ 1690  source ~/.bashrc
+ 1691  cat ~/.bashrc
+ 1692  clear
+ 1693  cat ~/.bashrc
+ 1694  sudo gedit  ~/.bashrc
+ 1695  alias
+ 1696  alias loizelslint='/home/loizani/Desktop/Workspace/LoizTypescript/node_modules/.bin/eslint'
+ 1697  alias
+ 1698  ./loizOpenVSCode.sh 
+ 1699  alias
+ 1700  cd Desktop/
+ 1701  ./loizOpenVSCode.sh 
+ 1702  sudo gedit  ~/.bashrc
+ 1703  echo $PATH
+ 1704  exit
+ 1705  echo $PATH
+ 1706  echo $PATH
+ 1707  eslint . --ext .ts
+ 1708  exit
+ 1709  pwd
+ 1710  cd Desktop/
+ 1711  . loizOpenVSCode.sh
+ 1712  sudo gedit  ~/.bashrc
+ 1713  echo $PATH
+ 1714  eslint -v
+ 1715  elslint -v
+ 1716  eslint -v
+ 1717  npm list -g --depth=0
+ 1718  npm list --save-dev --depth=0
+ 1719  npm list
+ 1720  npm list --depth=0
+ 1721  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint -v
+ 1722  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint -v
+ 1723  clear
+ 1724  which eslint
+ 1725  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/.bin/eslint -v
+ 1726  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint -v
+ 1727  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint.js -v
+ 1728  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bi.js
+ 1729  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint.js . --ext .js
+ 1730  eslint .  --ext .ts
+ 1731  eslint -h
+ 1732  clear
+ 1733  eslint .  --ext .ts
+ 1734  clear
+ 1735  eslint .  --ext .ts
+ 1736  clear
+ 1737  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1738  tsc LoizObsStudy.ts
+ 1739  node LoizObsStudy.js
+ 1740  clear
+ 1741  tsc LoizObsStudy.ts && node LoizObsStudy.js
+ 1742  tsc LoizObsStudy.ts 
+ 1743  eslint . --ext *.ts
+ 1744  eslint . --ext .ts
+ 1745  clear
+ 1746  eslint . --ext .ts
+ 1747  clear
+ 1748  eslint . --ext .ts
+ 1749  clear
+ 1750  eslint no-console: ["error", { allow: ["warn", "error"] }] 
+ 1751  eslint . --ext .ts
+ 1752  clear
+ 1753  eslint . --ext .ts
+ 1754  clear
+ 1755  eslint . --ext .ts
+ 1756  clear
+ 1757  eslint . --ext .ts
+ 1758  git status
+ 1759  git init
+ 1760  git status
+ 1761  git remote -v
+ 1762  git status
+ 1763  touch .gitignore
+ 1764  git status
+ 1765  git add --all
+ 1766  git status
+ 1767  which eslint
  1768  eslint -v
- 1769  npm list -g --depth=0
- 1770  npm list --save-dev --depth=0
- 1771  npm list
- 1772  npm list --depth=0
- 1773  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint -v
- 1774  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint -v
- 1775  clear
- 1776  which eslint
- 1777  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/.bin/eslint -v
- 1778  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint -v
- 1779  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint.js -v
- 1780  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bi.js
- 1781  /home/loizani/Desktop/Workspace/DalUsagerPrimoBrancheAppli/node_modules/eslint/bin/eslint.js . --ext .js
- 1782  eslint .  --ext .ts
- 1783  eslint -h
- 1784  clear
- 1785  eslint .  --ext .ts
- 1786  clear
- 1787  eslint .  --ext .ts
- 1788  clear
- 1789  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1790  tsc LoizObsStudy.ts
- 1791  node LoizObsStudy.js
- 1792  clear
- 1793  tsc LoizObsStudy.ts && node LoizObsStudy.js
- 1794  tsc LoizObsStudy.ts 
- 1795  eslint . --ext *.ts
- 1796  eslint . --ext .ts
- 1797  clear
- 1798  eslint . --ext .ts
- 1799  clear
- 1800  eslint . --ext .ts
- 1801  clear
- 1802  eslint no-console: ["error", { allow: ["warn", "error"] }] 
- 1803  eslint . --ext .ts
- 1804  clear
- 1805  eslint . --ext .ts
- 1806  clear
+ 1769  eslint . --ext .ts
+ 1770  git remote -v
+ 1771  git status
+ 1772  git log
+ 1773  git diff --name-only --cached
+ 1774  git diff
+ 1775  git diff --name-only
+ 1776  git diff --staged
+ 1777  gitk
+ 1778  gitgui
+ 1779  git gui
+ 1780  ssh-keygen -t rsa -b 4096 -C "loizani@aol.com"
+ 1781  eval "$(ssh-agent -s)"
+ 1782  ssh-add -K /root/.ssh/id_rsa
+ 1783  /usr/bin/ssh-add -K /root/.ssh/id_rsa
+ 1784  which ssh-add
+ 1785  ssh-add  /root/.ssh/id_rsa
+ 1786  clip < /root/.ssh/id_rsa.pub
+ 1787  cat /root/.ssh/id_rsa.pub
+ 1788  git push
+ 1789  git push --set-upstream origin main
+ 1790  gitk
+ 1791  history > histocommandes.txt 
+ 1792  git branch -u origin/master
+ 1793  git branch -u origin/main
+ 1794  git status
+ 1795  gitk
+ 1796  git log
+ 1797  gitk
+ 1798  git branch dev
+ 1799  git status
+ 1800  gitk
+ 1801  git checkout dev
+ 1802  gitk
+ 1803  git status
+ 1804  git log
+ 1805  clear
+ 1806  which eslint 
  1807  eslint . --ext .ts
  1808  clear
  1809  eslint . --ext .ts
- 1810  git status
- 1811  git init
- 1812  git status
- 1813  git remote -v
- 1814  git status
- 1815  touch .gitignore
- 1816  git status
- 1817  git add --all
- 1818  git status
- 1819  which eslint
- 1820  eslint -v
- 1821  eslint . --ext .ts
- 1822  git remote -v
- 1823  git status
- 1824  git log
- 1825  git diff --name-only --cached
- 1826  git diff
- 1827  git diff --name-only
- 1828  git diff --staged
- 1829  gitk
- 1830  gitgui
- 1831  git gui
- 1832  ssh-keygen -t rsa -b 4096 -C "loizani@aol.com"
- 1833  eval "$(ssh-agent -s)"
- 1834  ssh-add -K /root/.ssh/id_rsa
- 1835  /usr/bin/ssh-add -K /root/.ssh/id_rsa
- 1836  which ssh-add
- 1837  ssh-add  /root/.ssh/id_rsa
- 1838  clip < /root/.ssh/id_rsa.pub
- 1839  cat /root/.ssh/id_rsa.pub
- 1840  git push
- 1841  git push --set-upstream origin main
- 1842  gitk
- 1843  history > histocommandes.txt 
- 1844  git branch -u origin/master
- 1845  git branch -u origin/main
- 1846  git status
- 1847  gitk
- 1848  git log
- 1849  gitk
- 1850  git branch dev
- 1851  git status
- 1852  gitk
- 1853  git checkout dev
- 1854  gitk
- 1855  git status
- 1856  git log
- 1857  clear
- 1858  which eslint 
- 1859  eslint . --ext .ts
- 1860  clear
- 1861  eslint . --ext .ts
- 1862  clear
- 1863  eslint . --ext .ts
- 1864  npm run lint
- 1865  npm run loizeslint
- 1866  npm run loizlint
- 1867  which loizlint
- 1868  clear
- 1869  npm run loizlint
- 1870  npm run test
- 1871  clear
- 1872  eslint . --ext .ts
- 1873  clear
- 1874  git status
- 1875  eslint . --ext .ts --fix
- 1876  clear
- 1877  eslint . --ext .ts
- 1878  clear
- 1879  eslint . --ext .ts --fix
- 1880  npm run lint-and-fix
- 1881  clear
- 1882  eslint . --ext .ts --fix
- 1883  clear
- 1884  git status
- 1885  eslint --fix --ext .ts
- 1886  git status
- 1887  git add --all
- 1888  git status
- 1889  git commit -m "suppression volontaire de point virgule dans fichier ts"
- 1890  git status
- 1891  git push
- 1892  git status
- 1893  git push --set-upstream origin dev
- 1894  eslint  --ext .ts
- 1895  eslint  . --ext .ts
- 1896  clear
- 1897  eslint  . --ext .ts
- 1898  clear
- 1899  eslint  . --ext .ts
- 1900  clear
- 1901  eslint  . --ext .ts
+ 1810  clear
+ 1811  eslint . --ext .ts
+ 1812  npm run lint
+ 1813  npm run loizeslint
+ 1814  npm run loizlint
+ 1815  which loizlint
+ 1816  clear
+ 1817  npm run loizlint
+ 1818  npm run test
+ 1819  clear
+ 1820  eslint . --ext .ts
+ 1821  clear
+ 1822  git status
+ 1823  eslint . --ext .ts --fix
+ 1824  clear
+ 1825  eslint . --ext .ts
+ 1826  clear
+ 1827  eslint . --ext .ts --fix
+ 1828  npm run lint-and-fix
+ 1829  clear
+ 1830  eslint . --ext .ts --fix
+ 1831  clear
+ 1832  git status
+ 1833  eslint --fix --ext .ts
+ 1834  git status
+ 1835  git add --all
+ 1836  git status
+ 1837  git commit -m "suppression volontaire de point virgule dans fichier ts"
+ 1838  git status
+ 1839  git push
+ 1840  git status
+ 1841  git push --set-upstream origin dev
+ 1842  eslint  --ext .ts
+ 1843  eslint  . --ext .ts
+ 1844  clear
+ 1845  eslint  . --ext .ts
+ 1846  clear
+ 1847  eslint  . --ext .ts
+ 1848  clear
+ 1849  eslint  . --ext .ts
+ 1850  git status
+ 1851  git add --all
+ 1852  git commit -m "ajout de regle eslint pour saisie point virgule"
+ 1853  git push
+ 1854  clear
+ 1855  eslint  . --ext .ts
+ 1856  git status
+ 1857  eslint  . --fix .ts
+ 1858  eslint  . --ext .ts --fix
+ 1859  git status
+ 1860  gitk
+ 1861  clear
+ 1862  git add --all
+ 1863  git commit -m "apres execution de 'eslint  . --ext .ts --fix', ajout des point virgules nécessaires"
+ 1864  git push
+ 1865  gitk
+ 1866  loizlint
+ 1867  npm run loizlint
+ 1868  git status
+ 1869  git add --all
+ 1870  git status
+ 1871  git commit -m "ajout control espace avant et apres virgule"
+ 1872  eslint  . --fix --ext .ts
+ 1873  gitk
+ 1874  git add --all && git commit -m "correction eslint espace autour de la virgule dans fichier source" && git push
+ 1875  git status
+ 1876  echo $path
+ 1877  echo $PATH
+ 1878  gst
+ 1879  gitk
+ 1880  cd Desktop
+ 1881  ./loizOpenVSCode.sh 
+ 1882  sudo gedit  ~/.bashrc
+ 1883  ./loizOpenVSCode.sh 
+ 1884  sudo gedit  ~/.bashrc
+ 1885  ./loizOpenVSCode.sh 
+ 1886  which clip
+ 1887  which ls
+ 1888  which eazeazeze ze
+ 1889  clear
+ 1890  cd ~/.bashrc
+ 1891  ls -la ~/ | more
+ 1892  cd ~/.bashrc
+ 1893  sudo gedit ~/.bashrc
+ 1894  git init
+ 1895  git status
+ 1896  git add --all
+ 1897  git status
+ 1898  git branch -M main
+ 1899  git branch
+ 1900  git status
+ 1901  git rm --cached *.*
  1902  git status
- 1903  git add --all
- 1904  git commit -m "ajout de regle eslint pour saisie point virgule"
- 1905  git push
- 1906  clear
- 1907  eslint  . --ext .ts
- 1908  git status
- 1909  eslint  . --fix .ts
- 1910  eslint  . --ext .ts --fix
- 1911  git status
- 1912  gitk
- 1913  clear
- 1914  git add --all
- 1915  git commit -m "apres execution de 'eslint  . --ext .ts --fix', ajout des point virgules nécessaires"
- 1916  git push
- 1917  gitk
- 1918  loizlint
- 1919  npm run loizlint
- 1920  git status
- 1921  git add --all
- 1922  git status
- 1923  git commit -m "ajout control espace avant et apres virgule"
- 1924  eslint  . --fix --ext .ts
- 1925  gitk
- 1926  git add --all && git commit -m "correction eslint espace autour de la virgule dans fichier source" && git push
- 1927  git status
- 1928  echo $path
- 1929  echo $PATH
- 1930  gst
- 1931  gitk
- 1932  cd Desktop
- 1933  ./loizOpenVSCode.sh 
- 1934  sudo gedit  ~/.bashrc
- 1935  ./loizOpenVSCode.sh 
- 1936  sudo gedit  ~/.bashrc
- 1937  ./loizOpenVSCode.sh 
- 1938  which clip
- 1939  which ls
- 1940  which eazeazeze ze
- 1941  clear
- 1942  cd ~/.bashrc
- 1943  ls -la ~/ | more
- 1944  cd ~/.bashrc
- 1945  sudo gedit ~/.bashrc
- 1946  git init
- 1947  git status
- 1948  git add --all
+ 1903  git rm --cached --all
+ 1904  git rm --cached
+ 1905  git commit -m "code source typescript et observable respecte regle eslint"
+ 1906  git status
+ 1907  git branch -M main
+ 1908  git remote add origin git@github.com:userInterview/LoizTypeScript.git
+ 1909  git push -u origin main
+ 1910  git status
+ 1911  git config --global user.name "userinterview"
+ 1912  git config --global user.email loizani@aol.com
+ 1913  cat .git/config
+ 1914  git config --global user.password "Designer922"
+ 1915  cat .git/config
+ 1916  clear
+ 1917  gi status
+ 1918  git status
+ 1919  git push -u origin main
+ 1920  git remote -v
+ 1921  git remote add origin https://github.com/userInterview/LoizTypeScript.git
+ 1922  git branch -M main
+ 1923  git push -u origin main
+ 1924  cat ~/.ssh/id_rsa
+ 1925  clear
+ 1926  cat .git/config
+ 1927  cat ~/.gitconfig
+ 1928  ssh-keygen -t rsa -b 4096 "loizani@aol.com"
+ 1929  ssh-keygen -t rsa
+ 1930  ls ~/.ssh
+ 1931  cd /root/.ssh/
+ 1932  ls
+ 1933  ls -ll
+ 1934  cat id_rsa
+ 1935  cat id_rsa.pub 
+ 1936  cat .git/config
+ 1937  gst
+ 1938  type gad
+ 1939  cd Desktop/
+ 1940  sh loizOpenVSCode.sh 
+ 1941  ls
+ 1942  pwd
+ 1943  cd Desktop/
+ 1944  sh loizOpenVSCode.sh 
+ 1945  gedit ~/.bashrc
+ 1946  git status
+ 1947  gitk
+ 1948  history > histocommandes.txt
  1949  git status
- 1950  git branch -M main
- 1951  git branch
- 1952  git status
- 1953  git rm --cached *.*
- 1954  git status
- 1955  git rm --cached --all
- 1956  git rm --cached
- 1957  git commit -m "code source typescript et observable respecte regle eslint"
- 1958  git status
- 1959  git branch -M main
- 1960  git remote add origin git@github.com:userInterview/LoizTypeScript.git
- 1961  git push -u origin main
- 1962  git status
- 1963  git config --global user.name "userinterview"
- 1964  git config --global user.email loizani@aol.com
- 1965  cat .git/config
- 1966  git config --global user.password "Designer922"
- 1967  cat .git/config
- 1968  clear
- 1969  gi status
- 1970  git status
- 1971  git push -u origin main
- 1972  git remote -v
- 1973  git remote add origin https://github.com/userInterview/LoizTypeScript.git
- 1974  git branch -M main
- 1975  git push -u origin main
- 1976  cat ~/.ssh/id_rsa
- 1977  clear
- 1978  cat .git/config
- 1979  cat ~/.gitconfig
- 1980  ssh-keygen -t rsa -b 4096 "loizani@aol.com"
- 1981  ssh-keygen -t rsa
- 1982  ls ~/.ssh
- 1983  cd /root/.ssh/
- 1984  ls
- 1985  ls -ll
- 1986  cat id_rsa
- 1987  cat id_rsa.pub 
- 1988  cat .git/config
- 1989  gst
- 1990  type gad
- 1991  cd Desktop/
- 1992  sh loizOpenVSCode.sh 
- 1993  ls
- 1994  pwd
- 1995  cd Desktop/
- 1996  sh loizOpenVSCode.sh 
- 1997  gedit ~/.bashrc
+ 1950  clear
+ 1951  git status
+ 1952  clear
+ 1953  git status
+ 1954  solidpush "historique des commandes"
+ 1955  git status
+ 1956  git update-index --assume-unchanged .gitignore
+ 1957  git status
+ 1958  clear
+ 1959  git status
+ 1960  git status
+ 1961  git rm --cached *.*
+ 1962  git rm --cached
+ 1963  git rm --cached .gitignore
+ 1964  git status
+ 1965  gitk
+ 1966  clear
+ 1967  git status
+ 1968  solidpush "hitorique commandes linux"
+ 1969  git status
+ 1970  git reset head histocommandes.txt
+ 1971  git reset --head histocommandes.txt
+ 1972  git status
+ 1973  gitk
+ 1974  gitgui
+ 1975  git-gui
+ 1976  sudo apt-get install git-gui
+ 1977  git citool
+ 1978  git status
+ 1979  solidpush "historique"
+ 1980  git status
+ 1981  gitk
+ 1982  git remote -v
+ 1983  git push
+ 1984  git config --global push.default matching
+ 1985  hitory > histocommandes.txt 
+ 1986  history > histocommandes.txt 
+ 1987  git status
+ 1988  clear
+ 1989  solidpush "historique des comandes (test commande linux personnalisée"
+ 1990  solidpush "historique des comandes push 2"
+ 1991  gitk
+ 1992  git status
+ 1993  clear
+ 1994  history > histocommandes.txt 
+ 1995  git status
+ 1996  solidpush "historique des comandes push 2"
+ 1997  type solidpush
  1998  git status
  1999  gitk
- 2000  history > histocommandes.txt
+ 2000  git status
+ 2001  gitk
+ 2002  history > histocommandes.txt 
