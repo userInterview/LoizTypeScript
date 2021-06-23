@@ -14,7 +14,7 @@ async function getPromiseFinalResult() : Promise<Response> {
 		  )
 	 .catch(function(argError) { console.log("Erreur de recupération des produits pour le vendeur microsoft. L'erreur vaut : " , argError); }) ;
 	
-	 
+	  
 	 const result = await promiseListeCVEs ;
 	 console.log('async function getPromiseFinalResult - resultat renvoyé : ' , result ) ; 
 	 return result ;	  

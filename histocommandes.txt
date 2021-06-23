@@ -1,6 +1,3 @@
- 1001  npm install
- 1002  gulp minicss
- 1003  gulp
  1004  gulp start
  1005  gulp
  1006  clear
@@ -998,3 +995,6 @@
  1998  solidpush "sauvegarde historique V6"
  1999  git status
  2000  history > histocommandes.txt 
+ 2001  git status
+ 2002  solidpush "sauvegarde historique V7"
+ 2003  history > histocommandes.txt 
