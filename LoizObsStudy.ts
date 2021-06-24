@@ -11,13 +11,13 @@ async function getPromiseFinalResult() : Promise<Response> {
 	).then((res) => {   const resJson = res.json() ;
 						console.log('09/06/2021 - 17h08 : async function getPromiseFinalResult - dans le then : ' , resJson ) ; 						
 						return resJson ;} 
-		  )
-	 .catch(function(argError) { console.log("Erreur de recupération des produits pour le vendeur microsoft. L'erreur vaut : " , argError); }) ;
+		 )
+	.catch(function(argError) { console.log("Erreur de recupération des produits pour le vendeur microsoft. L'erreur vaut : " , argError); }) ;
 	
-	  
-	 const result = await promiseListeCVEs ;
-	 console.log('async function getPromiseFinalResult - resultat renvoyé : ' , result ) ; 
-	 return result ;	  
+
+	const result = await promiseListeCVEs ;
+	console.log('async function getPromiseFinalResult - resultat renvoyé : ', result ) ; 
+	return result ;	  
 }
 
 function getTypeScriptObservable () : Observable<Promise<Response>> {
