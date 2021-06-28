@@ -1,0 +1,7 @@
+ { 
+      
+      "no-console": "off",
+      "no-mixed-spaces-and-tabs": "off",      
+      "semi": [2, "never"],
+      "comma-spacing": [2, { "before": false, "after": false }]    
+}

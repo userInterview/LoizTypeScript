@@ -34,6 +34,6 @@ getTypeScriptObservable().subscribe(
     }
 );
 
-const greet =  "Greetings"; 
+const greet =  "Greetings"
 const geeks = "GeeksforGeeks"; 
 console.log(greet + " from " + geeks);
